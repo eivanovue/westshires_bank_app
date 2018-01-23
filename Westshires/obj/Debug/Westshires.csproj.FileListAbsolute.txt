@@ -1,0 +1,41 @@
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\bin\Debug\Westshires.exe.config
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.csprojResolveAssemblyReference.cache
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.Form1.resources
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.Properties.Resources.resources
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.csproj.GenerateResource.Cache
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\bin\Debug\Westshires.exe
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\bin\Debug\Westshires.pdb
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.exe
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.pdb
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.Form2.resources
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.Form3.resources
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.Form4.resources
+c:\users\iemil\documents\visual studio 2013\Projects\Westshires\Westshires\obj\Debug\Westshires.Form5.resources
+C:\Users\user\Desktop\Westshires\Westshires\bin\Debug\Westshires.exe.config
+C:\Users\user\Desktop\Westshires\Westshires\bin\Debug\Westshires.exe
+C:\Users\user\Desktop\Westshires\Westshires\bin\Debug\Westshires.pdb
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.Form1.resources
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.Form2.resources
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.Form3.resources
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.Form4.resources
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.Form5.resources
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.Properties.Resources.resources
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.exe
+C:\Users\user\Desktop\Westshires\Westshires\obj\Debug\Westshires.pdb
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\bin\Debug\Westshires.exe.config
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\bin\Debug\Westshires.exe
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\bin\Debug\Westshires.pdb
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.Form1.resources
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.Form2.resources
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.Form3.resources
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.Form4.resources
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.Form5.resources
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.Properties.Resources.resources
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.exe
+C:\Users\user\Desktop\Fivium\Westshires\Westshires\obj\Debug\Westshires.pdb
